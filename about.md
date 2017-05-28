@@ -4,12 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+__Predictive Analysis, Natural Language Processing, Image Processing, Visualization.__
+
+
+Machine Learning Data Scientist
+Internet UX & Analytics Center   
+Samsung Fire & Marine Insurance  
+Seoul, South Korea
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
+
+Ph.D. in Mathematics, University of California, Berkeley
+
+B.S. in Mathematics, KAIST (Korea Advanced Instutute of Science and Technology)
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lee.minjae@berkeley.edu](mailto:lee.minjae@berkeley.edu)
