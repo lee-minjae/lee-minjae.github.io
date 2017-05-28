@@ -22,7 +22,8 @@ Ph.D. in Mathematics, University of California, Berkeley
 B.S. in Mathematics, KAIST (Korea Advanced Instutute of Science and Technology)
 
 
-
 ### Contact me
 
 [lee.minjae@berkeley.edu](mailto:lee.minjae@berkeley.edu)
+
+[Linkdin](https://www.linkedin.com/in/minjae-lee/)
