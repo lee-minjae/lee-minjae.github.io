@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Machine Learning Data Scientist working on  
-Predictive Analysis, Natural Language Processing and Image Processing
+Predictive Analysis, Natural Language Processing, and Image Processing
 
 
 
