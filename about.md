@@ -4,22 +4,24 @@ title: About
 permalink: /about/
 ---
 
-__Predictive Analysis, Natural Language Processing, Image Processing, Visualization.__
+Machine Learning Data Scientist working on  
+Predictive Analysis, Natural Language Processing and Image Processing
 
 
-Machine Learning Data Scientist
-Internet UX & Analytics Center   
-Samsung Fire & Marine Insurance  
-Seoul, South Korea
 
 
 ### More Information
 
 
+Senior Professional Data Scientist  
+Internet UX & Analytics Center   
+Samsung Fire & Marine Insurance  
+Seoul, South Korea
 
-Ph.D. in Mathematics, University of California, Berkeley
 
-B.S. in Mathematics, KAIST (Korea Advanced Instutute of Science and Technology)
+Ph.D. in Mathematics, [University of California, Berkeley](https://math.berkeley.edu/) (2016)
+
+B.S. in Mathematics, [KAIST](http://www.kaist.edu)  (2008)
 
 
 ### Contact me
